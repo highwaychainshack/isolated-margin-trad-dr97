@@ -1,4 +1,4 @@
-# 
+# rare isolated-margin trading bot Strategy | webhook-support + perpetual-trading offers the most advanced isolated-margin trading bot, with webhook-support and perpetual-trading.
 
 
 
